@@ -1,7 +1,6 @@
 #
 # File: cramy021_petals.py
 # Author: Marc Craske
-# Student Id: 110305048
 # Email Id: cramy021
 # Date: 2020.04.22
 # Description: Programming Assignment 1 - Petals Around the Rose
@@ -13,7 +12,6 @@
 # Printing student information to screen.
 print('File     : cramy021_petals.py')
 print('Author   : Marc Craske')
-print('Stud Id  : 110305048')
 print('Email Id : cramy021')
 print('Description: Programming Assignment 1 - Petals Around the Rose')
 print('This is my own work as defined by the University\'s Academic Misconduct policy.')
